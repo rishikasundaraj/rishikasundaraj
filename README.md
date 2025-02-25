@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @rishikasundaraj
-- 👀 I’m interested in coding just started
-- 🌱 I’m currently learning python and c programming
-- 💞️ I’m looking to collaborate 
-- 📫 reach me with my email id
+I'm an aspiring front-end developer currently learning java programming. My goal is to become a skilled full-stack developer, so I'm also exploring backend development with Python. I enjoy solving coding challenges and working on projects to sharpen my skills.
+Skills & Technologies (Learning) 🚀
 
+Frontend Development:
+✅ HTML5, CSS3
+✅ JavaScript (Currently Learning)
 
-<!---
-rishikasundaraj/rishikasundaraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Programming & Tools:
+✅ GitHub
+✅ VS Code
+
+Let's Connect! 🌍
+linkedin:https://www.linkedin.com/in/rishika-sundarraj-501519311
+Gmail:rishikasundaraj@gmail.com
