@@ -1,11 +1,18 @@
-Iam Rishika
-I'm an aspiring front-end developer currently learning java programming. My goal is to become a skilled full-stack developer, so I'm also exploring backend development with Python. I enjoy solving coding challenges and working on projects to sharpen my skills.
-Skills & Technologies (Learning) 🚀
+👋 Hello! I'm Rishika s
 
-Frontend Development:
-✅ HTML5, CSS3
-✅ JavaScript (Currently Learning)
+🎓 Aspiring Data Scientist | 📊 Python & Data Analytics Enthusiast | 🌱 Learning Every Day
 
+---
+
+🚀 About Me
+
+I'm a beginner in the exciting field of Data Science, passionate about discovering insights through data and building practical solutions. I'm currently exploring:
+
+- 🐍 Python for Data Science  
+- 📊 Pandas, NumPy, and Matplotlib  
+- 📈 Data Visualization and Analytics  
+- 🤖 Machine Learning Basics (Scikit-Learn)  
+- 📚 Projects and Real-World Datasets  
 Programming & Tools:
 ✅ GitHub
 ✅ VS Code
